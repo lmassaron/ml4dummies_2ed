@@ -1,6 +1,6 @@
 # Machine Learning For Dummies, 2nd ED
-Code and data repository for Machine Learning For Dummies 2nd edition
-<P>![cover](./images/Machine_Learning_FD_COVER.jpg)</P>
+<B>Code and data repository for Machine Learning For Dummies 2nd edition</B><BR><BR>
+![cover](./images/Machine_Learning_FD_COVER.jpg)
 
 ## From the Back Cover
 Fun ways to work and play with new machine learning tools
